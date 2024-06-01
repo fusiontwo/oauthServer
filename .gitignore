@@ -21,8 +21,8 @@
 !.vscode/*.code-snippets
 
 # nodejs
-node_modules
-dist/*
-build/*
-*.log
-.DS_Store
+# node_modules
+# dist/*
+# build/*
+# *.log
+# .DS_Store
